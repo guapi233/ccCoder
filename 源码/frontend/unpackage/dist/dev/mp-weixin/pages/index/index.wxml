@@ -1,1 +1,0 @@
-<view data-event-opts="{{[['tap',[['toucha',['$event']]]]]}}" class="box _div" bindtap="__e">我是主页<view class="have _div">{{'我包含：'+show+''}}<navigator url="./sort">公益分类</navigator><navigator url="./shop">积分商城</navigator><navigator url="./idle">闲置物捐赠</navigator></view></view>

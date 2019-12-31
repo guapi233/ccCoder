@@ -1,1 +1,0 @@
-<view class="box _div"><navigator open-type="navigateBack">返回</navigator>我是闲置物捐赠界面<view class="have _div">我包含：<navigator url="./idleInfo">闲置物信息</navigator></view></view>
